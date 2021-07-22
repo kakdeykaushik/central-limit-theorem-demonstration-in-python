@@ -1,4 +1,4 @@
-# What is Central Limit Theoram ?
+# What is Central Limit Theorem ?
 In probability theory, the [central limit theorem](https://en.wikipedia.org/wiki/Central_limit_theorem) establishes that, in many situations, when independent random variables are added, their properly normalized sum tends toward a normal distribution even if the original variables themselves are not normally distributed.
 
 The Central Limit Theorem states that the sampling distribution of the sample means approaches a normal distribution as the sample size gets larger — no matter what the shape of the population distribution. This fact holds especially true for sample sizes over 30.
@@ -62,4 +62,4 @@ You would observe that CLT distribution is more normally distributed then the or
 
 [Statistics How To](https://www.statisticshowto.com/probability-and-statistics/normal-distributions/central-limit-theorem-definition-examples/)
 
-[Central Limit Theoram - Wiki](https://en.wikipedia.org/wiki/Central_limit_theorem)
+[Central Limit Theorem - Wiki](https://en.wikipedia.org/wiki/Central_limit_theorem)
